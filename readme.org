@@ -1,0 +1,10 @@
+* PDFBookmark
+更方便地为PDF文件添加书签的工具，支持GUI和命令行两种使用方式。基于PyQt5+Python 3开发。
+
+* 依赖安装
+- Python 3 :: 去Python官网下载：https://www.python.org
+- 三方库 :: pip3 install pyqt5 PyPDF2
+
+* 参考文档
+- PyQt5在线API文档 :: https://www.riverbankcomputing.com/static/Docs/PyQt5/index.html
+- PyPDF2 API文档 :: https://pythonhosted.org/PyPDF2/
